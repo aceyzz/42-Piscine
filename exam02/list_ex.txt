@@ -1,0 +1,8 @@
+aff_g
+ft_putstr
+swap_cases
+ft_putnbr
+aff_last_param
+inter
+count_words
+ft_itoa
