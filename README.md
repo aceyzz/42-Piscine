@@ -9,8 +9,8 @@
 	42 est une initiative éducative mondiale qui propose une nouvelle façon d'apprendre la technologie :
 	pas d'enseignants, pas de salles de classe, les étudiants apprennent de leurs camarades
 	(apprentissage entre pairs), avec une méthodologie qui développe des compétences informatique et humaines.
-	Le cursus 42 est gratuit pour tous, et qui sont approuvés dans via le processus de sélection.
-	La "Piscine" est un bootcamp de programmation C de 26 jours, et est aussi la dernière étape du
+	Le cursus 42 est gratuit pour tous ceux qui sont approuvés via le processus de sélection.
+	La "Piscine" est un bootcamp de programmation C de 26 jours, et aussi la dernière étape du
 	processus de sélection pour devenir « cadet » (élève de 42).
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
@@ -25,7 +25,7 @@
 
 	# Langage C
 		Le langage principal appris à la Piscine des 42 est le C : gestion des variables,
-		pointeurs, allocation de mémoire, macros, ainsi que création de fonctions et de programmes,
+		pointeurs, allocation de mémoire, macros, ainsi que la création de fonctions et de programmes,
 		y compris l'utilisation et la création de bibliothèques et de Makefiles.
 
 	# Shell
