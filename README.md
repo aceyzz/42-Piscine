@@ -121,4 +121,4 @@
 
 |FINAL LVL	|TEAM	|ALL	|STATUS
 |:-:		|:-:	|:-:	|:-:
-|9.88 exp	|1st	|1st	|(in progress)
+|9.88 exp	|1st	|1st	|Admitted
