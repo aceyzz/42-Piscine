@@ -1,8 +1,8 @@
-aff_g
-ft_putstr
-swap_cases
-ft_putnbr
-aff_last_param
-inter
-count_words
-ft_itoa
+1. aff_g
+2. ft_putstr
+3. swap_cases
+4. ft_putnbr
+5. aff_last_param
+6. inter
+7. count_words
+8. ft_itoa

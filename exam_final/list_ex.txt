@@ -1,0 +1,12 @@
+1. aff_q
+2. ft_star
+3. occ_a
+4. ft_putstr
+5. fizzbuzz
+6. rotone
+7. ft_putnbr
+8. title
+9. inter
+10. itoa
+11. ft_range
+12. ft_split

@@ -1,9 +1,9 @@
-only_a.c
-maff_revalpha.c
-rev_print.c
-ft_strrepl.c
-aff_z.c
-aff_last_param.c
-ft_atoi.c
-is_palindrome.c
-inter
+1. only_a
+2. maff_revalpha
+3. rev_print
+4. ft_strrepl
+5. aff_z
+6. aff_last_param
+7. ft_atoi
+8. is_palindrome
+9. inter
