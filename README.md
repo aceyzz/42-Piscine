@@ -119,6 +119,6 @@
 
 ## Results
 
-|FINAL LVL	|TEAM	|ALL	|STATUS
-|:-:		|:-:	|:-:	|:-:
-|9.88 exp	|1st	|1st	|Admitted
+|FINAL LVL	| TEAM RANK	 |STATUS
+|:-:		|:-----------|:--:
+|9.88 exp	| 1st	 	     |Admitted
